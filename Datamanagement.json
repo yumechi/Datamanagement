@@ -26,11 +26,11 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
-
       "introduction.md",
       "howtoDataBroke.md",
       "datacategory.md",
-      "placeholder.md"
+      "placeholder.md",
+      "chap-yumechi-1.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }

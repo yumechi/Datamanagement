@@ -206,6 +206,22 @@ Twitterでも適当に絡んでください、よろしくおねがいします�
 メーカセカンダリでWindowsアプリ作ってる人。最近はノートに考えていることを書いてます。podcastもやってたりする。
 趣味はゲーム全般。キーボード入力最適化に燃えてます。在宅になっても、趣味を諦めないことが直近の目標。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yumechi_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        yumechi @\_\_yumechi https://twitter.com/\_\_yumechi\\
+        @\_\_yumechi@misskey.systems\\
+        サークル名： 焼肉のために本気出します
+        \end{minipage}
+    \hspace{1ex}
+//}
+のんびりPythonのソフトウェアエンジニアやってます。たまに焼肉のために本気を出して同人誌を書くこともあります。このアイコンは技術書典のサークル画像として設定しているものです。本当はゲームばっかりしていたいです。
+
 
 == 表紙イラスト・デザイン　
 
